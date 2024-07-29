@@ -1,5 +1,5 @@
 # Fragment
-## Create
+## Creator
 ## Image Detect (yolo)
 ## Language
 ## Local
@@ -8,5 +8,3 @@
 ## News
 ## Weather
 ## Web
-
-# Blogging
