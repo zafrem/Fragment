@@ -13,7 +13,6 @@ def create_countdown_video(file_name, width, height, fps, seconds):
     font = ImageFont.truetype("Helvetica", size=128)
 
     for i in range(seconds, -1, -1):
-        hours = math.floor(i / 3600)
         mins = math.floor(i / 60)
         sec = i % 60
         print(f"{format(mins, '02')}:{format(sec, '02')}")
